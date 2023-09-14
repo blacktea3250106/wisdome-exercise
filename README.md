@@ -60,12 +60,14 @@
 2. **指定檔案名稱**
     - 在 `main.py` 中找到 `file_name` 變數。
     - 更改其值為您希望解析的文件名稱。
+   
       ```python
       file_name = "{file_name}.pdf"
       ```
 
 3. **運行程式**
     - 在終端機或命令提示字元中，執行以下命令以運行 `main.py`:
+      
       ```bash
       python main.py
       ```
