@@ -1,3 +1,19 @@
+import os
+import json
+
+def export_to_json(data, file_name):
+    file_name_without_extension = os.path.splitext(file_name)[0]
+    
+    if not os.path.exists('json'):
+        os.mkdir('json')
+    
+    json_file_path = os.path.join('json', file_name_without_extension + '.json')
+    
+    with open(json_file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+
+    print(f"Data has been saved to {json_file_path}")
+
 # 詞彙題 output
 def vocabulary_question(passages):
     print("詞彙題:")

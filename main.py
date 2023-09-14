@@ -1,6 +1,5 @@
 import os
 import re
-import json
 import datetime
 import pdfplumber
 
@@ -22,19 +21,6 @@ def extract_pdf_text(pdf_path):
         # 從第二頁讀取到最後一頁
         texts = [page.extract_text() for page in pdf.pages[1:]]
     return '\n'.join(filter(None, texts))
-
-def export_to_json(data, file_name):
-    file_name_without_extension = os.path.splitext(file_name)[0]
-    
-    if not os.path.exists('json'):
-        os.mkdir('json')
-    
-    json_file_path = os.path.join('json', file_name_without_extension + '.json')
-    
-    with open(json_file_path, 'w', encoding='utf-8') as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
-
-    print(f"Data has been saved to {json_file_path}")
 
 def process_text(text):
     extracted_texts = {}
@@ -81,7 +67,7 @@ def main():
         except Exception as e:
             print(key, e)
 
-    export_to_json(exercise, file_name)
+    output.export_to_json(exercise, file_name)
 
 if __name__ == "__main__":
     main()
