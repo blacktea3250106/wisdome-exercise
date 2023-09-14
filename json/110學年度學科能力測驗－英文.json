@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "means",
-                        "soreness",
-                        "point to",
-                        "argue",
-                        "demanding",
-                        "abide by",
-                        "fanatic",
-                        "current",
-                        "make time",
-                        "modest"
-                    ]
+                    "options": "means"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "soreness"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "point to"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "argue"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "demanding"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "abide by"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "fanatic"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "current"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "make time"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "modest"
                 }
             ]
         },

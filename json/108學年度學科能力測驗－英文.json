@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "little",
-                        "purchases",
-                        "trusted",
-                        "requests",
-                        "insisted",
-                        "ready",
-                        "ruined",
-                        "privilege",
-                        "revealed",
-                        "obvious"
-                    ]
+                    "options": "little"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "purchases"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "trusted"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "requests"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "insisted"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "ready"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "ruined"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "privilege"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "revealed"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "obvious"
                 }
             ]
         },

@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "flaw",
-                        "exhibit",
-                        "chubby",
-                        "attractiveness",
-                        "fade",
-                        "rare",
-                        "range",
-                        "transfer",
-                        "natural",
-                        "presence"
-                    ]
+                    "options": "flaw"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "exhibit"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "chubby"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "attractiveness"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "fade"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "rare"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "range"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "transfer"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "natural"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "presence"
                 }
             ]
         },

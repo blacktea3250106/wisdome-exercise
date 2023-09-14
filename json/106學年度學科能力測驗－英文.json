@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "reflected",
-                        "parts",
-                        "admired",
-                        "functioned",
-                        "prompt",
-                        "decorating",
-                        "spiritual",
-                        "discovered",
-                        "symbols",
-                        "healing"
-                    ]
+                    "options": "reflected"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "parts"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "admired"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "functioned"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "prompt"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "decorating"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "spiritual"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "discovered"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "symbols"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "healing"
                 }
             ]
         },

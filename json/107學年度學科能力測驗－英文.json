@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "account",
-                        "appeared",
-                        "competing",
-                        "contained",
-                        "replaced",
-                        "secret",
-                        "successful",
-                        "tastes",
-                        "traces",
-                        "treats"
-                    ]
+                    "options": "account"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "appeared"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "competing"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "contained"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "replaced"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "secret"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "successful"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "tastes"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "traces"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "treats"
                 }
             ]
         },

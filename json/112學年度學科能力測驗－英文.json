@@ -227,18 +227,52 @@
                 {
                     "id": 21,
                     "text": "",
-                    "options": [
-                        "absorption",
-                        "active",
-                        "alert",
-                        "combat",
-                        "option",
-                        "effective",
-                        "even",
-                        "status",
-                        "pass through",
-                        "reach for"
-                    ]
+                    "options": "absorption"
+                },
+                {
+                    "id": 22,
+                    "text": "",
+                    "options": "active"
+                },
+                {
+                    "id": 23,
+                    "text": "",
+                    "options": "alert"
+                },
+                {
+                    "id": 24,
+                    "text": "",
+                    "options": "combat"
+                },
+                {
+                    "id": 25,
+                    "text": "",
+                    "options": "option"
+                },
+                {
+                    "id": 26,
+                    "text": "",
+                    "options": "effective"
+                },
+                {
+                    "id": 27,
+                    "text": "",
+                    "options": "even"
+                },
+                {
+                    "id": 28,
+                    "text": "",
+                    "options": "status"
+                },
+                {
+                    "id": 29,
+                    "text": "",
+                    "options": "pass through"
+                },
+                {
+                    "id": 30,
+                    "text": "",
+                    "options": "reach for"
                 }
             ]
         },
@@ -249,12 +283,22 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "This consistency serves as a proof that synesthesia is real.",
-                        "Meanwhile, environmental influences seem to shape a person’s synesthesia.",
-                        "People with synesthesia used to be accused of making their experiences up.",
-                        "Some studies even show that people may all be synesthetic to some degree."
-                    ]
+                    "options": "This consistency serves as a proof that synesthesia is real."
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "Meanwhile, environmental influences seem to shape a person’s synesthesia."
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "People with synesthesia used to be accused of making their experiences up."
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "Some studies even show that people may all be synesthetic to some degree."
                 }
             ]
         },

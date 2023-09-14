@@ -227,18 +227,52 @@
                 {
                     "id": 21,
                     "text": "",
-                    "options": [
-                        "possible",
-                        "sensation",
-                        "risky",
-                        "cost",
-                        "witnessed",
-                        "professional",
-                        "called for",
-                        "tried out",
-                        "necessity",
-                        "career"
-                    ]
+                    "options": "possible"
+                },
+                {
+                    "id": 22,
+                    "text": "",
+                    "options": "sensation"
+                },
+                {
+                    "id": 23,
+                    "text": "",
+                    "options": "risky"
+                },
+                {
+                    "id": 24,
+                    "text": "",
+                    "options": "cost"
+                },
+                {
+                    "id": 25,
+                    "text": "",
+                    "options": "witnessed"
+                },
+                {
+                    "id": 26,
+                    "text": "",
+                    "options": "professional"
+                },
+                {
+                    "id": 27,
+                    "text": "",
+                    "options": "called for"
+                },
+                {
+                    "id": 28,
+                    "text": "",
+                    "options": "tried out"
+                },
+                {
+                    "id": 29,
+                    "text": "",
+                    "options": "necessity"
+                },
+                {
+                    "id": 30,
+                    "text": "",
+                    "options": "career"
                 }
             ]
         },
@@ -249,12 +283,22 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "Some people also visit the cemetery to clean up the family graves and pray for their ancestors.",
-                        "Such festive activities are usually held in parks, temples, and other public places around Japan.",
-                        "Obon concludes with another bonfire, okuribi, lighting up the sky to see the ancestors’ spirits off.",
-                        "Originating from the Chinese Ghost Festival, this annual event has evolved into a time of family reunion."
-                    ]
+                    "options": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors."
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "Such festive activities are usually held in parks, temples, and other public places around Japan."
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "Obon concludes with another bonfire, okuribi, lighting up the sky to see the ancestors’ spirits off."
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "Originating from the Chinese Ghost Festival, this annual event has evolved into a time of family reunion."
                 }
             ]
         },

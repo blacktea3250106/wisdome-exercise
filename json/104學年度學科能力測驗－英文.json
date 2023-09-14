@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "familiar",
-                        "honor",
-                        "device",
-                        "removable",
-                        "known as",
-                        "protest",
-                        "symbol",
-                        "twisted into",
-                        "associated with",
-                        "historical"
-                    ]
+                    "options": "familiar"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "honor"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "device"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "removable"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "known as"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "protest"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "symbol"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "twisted into"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "associated with"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "historical"
                 }
             ]
         },

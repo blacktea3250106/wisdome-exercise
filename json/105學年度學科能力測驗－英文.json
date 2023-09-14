@@ -333,18 +333,52 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": [
-                        "deserted",
-                        "interference",
-                        "vision",
-                        "crazy",
-                        "creation",
-                        "encouraged",
-                        "ignored",
-                        "survived",
-                        "dry",
-                        "true"
-                    ]
+                    "options": "deserted"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "interference"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "vision"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "crazy"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "creation"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "encouraged"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "ignored"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "survived"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "dry"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "true"
                 }
             ]
         },
