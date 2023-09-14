@@ -1,0 +1,558 @@
+{
+    "source": "D:\\wisdome-exercise\\pdf\\109學年度學科能力測驗－英文.pdf",
+    "date": "2023-09-14",
+    "passages": [
+        {
+            "id": 0,
+            "content": "",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+                    "options": [
+                        "balance",
+                        "conclusion",
+                        "definition",
+                        "harmony"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Jane _____ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+                    "options": [
+                        "bored",
+                        "amazed",
+                        "charmed",
+                        "informed"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "The vacuum cleaner is not working. Let’s send it back to the _____ to have it inspected and repaired.",
+                    "options": [
+                        "lecturer",
+                        "publisher",
+                        "researcher",
+                        "manufacturer"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Due to the global financial crisis, the country’s exports _____ by 40 percent last month, the largest drop since 2000.",
+                    "options": [
+                        "flattered",
+                        "transformed",
+                        "relieved",
+                        "decreased"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+                    "options": [
+                        "solid",
+                        "crispy",
+                        "original",
+                        "smooth"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+                    "options": [
+                        "monument",
+                        "refugee",
+                        "souvenir",
+                        "firecracker"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "The students in Professor Smith’s classical Chinese class are required to _____ poems by famous Chinese poets.",
+                    "options": [
+                        "construct",
+                        "expose",
+                        "recite",
+                        "install"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+                    "options": [
+                        "convention",
+                        "relationship",
+                        "insurance",
+                        "ownership"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+                    "options": [
+                        "mission",
+                        "target",
+                        "cradle",
+                        "milestone"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+                    "options": [
+                        "abundant",
+                        "immense",
+                        "permissible",
+                        "descriptive"
+                    ]
+                },
+                {
+                    "id": 11,
+                    "text": "Jack’s excellent performance in last week’s game has _____ all the doubts about his ability to play on our school basketball team.",
+                    "options": [
+                        "erased",
+                        "canceled",
+                        "overlooked",
+                        "replaced"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "text": "It is bullying to _____ a foreign speaker’s accent. No one deserves to be laughed at for their pronunciation.",
+                    "options": [
+                        "mock",
+                        "sneak",
+                        "prompt",
+                        "glare"
+                    ]
+                },
+                {
+                    "id": 13,
+                    "text": "Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+                    "options": [
+                        "barely",
+                        "evenly",
+                        "currently",
+                        "formerly"
+                    ]
+                },
+                {
+                    "id": 14,
+                    "text": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+                    "options": [
+                        "sober",
+                        "majestic",
+                        "vigorous",
+                        "noticeable"
+                    ]
+                },
+                {
+                    "id": 15,
+                    "text": "The claim that eating chocolate can prevent heart disease is _____ because there is not enough scientific evidence to support it.",
+                    "options": [
+                        "creative",
+                        "disputable",
+                        "circular",
+                        "magnificent"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "content": "The art and tradition of using all-natural paste from the henna plant to create temporary henna tattoos goes back to ancient Asia and the Middle East. Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods. Today, the ancient art form has found a new 17 in the hands of contemporary artists. Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again. They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment. Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads. Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed. According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+            "questions": [
+                {
+                    "id": 16,
+                    "text": "",
+                    "options": [
+                        "were being",
+                        "have been",
+                        "will be",
+                        "had to be"
+                    ]
+                },
+                {
+                    "id": 17,
+                    "text": "",
+                    "options": [
+                        "competition",
+                        "application",
+                        "investigation",
+                        "participation"
+                    ]
+                },
+                {
+                    "id": 18,
+                    "text": "",
+                    "options": [
+                        "carry away",
+                        "build on",
+                        "cope with",
+                        "get off"
+                    ]
+                },
+                {
+                    "id": 19,
+                    "text": "",
+                    "options": [
+                        "moreover",
+                        "altogether",
+                        "namely",
+                        "otherwise"
+                    ]
+                },
+                {
+                    "id": 20,
+                    "text": "",
+                    "options": [
+                        "positive",
+                        "general",
+                        "flexible",
+                        "considerate"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": "When a person sneezes, the droplets can spread diseases. Now research shows that plants have a somewhat 21 problem. Plant diseases can also spread through tiny water drops that jump off leaves— a plant’s version of a sneeze. Scientists already knew earlier that wind and splashes of rainwater can move bacteria and other germs from leaf to leaf. 22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust. They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants. The researchers noticed that small drops of water on the wheat leaves would move to combine and form a larger drop. As they were moving, the energy of the droplets in motion would be released. This energy allowed the water 24 into the air, which looked just like sneezing! However, not all plants can sneeze. The ability is 25 to those with leaves that are hydrophobic, or repel water—a special feature that forces the liquid to move away when the leaf is exposed to it.",
+            "questions": [
+                {
+                    "id": 21,
+                    "text": "",
+                    "options": [
+                        "similar",
+                        "miserable",
+                        "realistic",
+                        "temporary"
+                    ]
+                },
+                {
+                    "id": 22,
+                    "text": "",
+                    "options": [
+                        "As a result of",
+                        "In a search for",
+                        "With a view to",
+                        "To the extent of"
+                    ]
+                },
+                {
+                    "id": 23,
+                    "text": "",
+                    "options": [
+                        "shoot out",
+                        "hold on",
+                        "come across",
+                        "give up"
+                    ]
+                },
+                {
+                    "id": 24,
+                    "text": "",
+                    "options": [
+                        "jump",
+                        "to jump",
+                        "jumping",
+                        "jumped"
+                    ]
+                },
+                {
+                    "id": 25,
+                    "text": "",
+                    "options": [
+                        "curious",
+                        "relative",
+                        "unique",
+                        "primitive"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "content": "The idea of Blue Monday dates back to a 2005 campaign by Sky Travel. The travel company wanted to 26 people to take January vacations, so they reached out to a psychologist. The scholar then developed an equation to find the most depressing day of the year, and it turned out to be the third Monday in January. Since then, other companies have jumped on the bandwagon to promote everything from soft drinks to new clothes as a 27 . A group in the UK even started a website devoted to “beating Blue Monday.” Many scientists, however, say there is no evidence that Blue Monday causes any more sadness than other specific days of the year. 28 , the idea of Blue Monday persists. According to psychologist Dean Burnett, people feel down in January 29 post-holiday discontent, and the Blue Monday claim makes it seem like there are scientific reasons for this. Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people.",
+            "questions": [
+                {
+                    "id": 26,
+                    "text": "",
+                    "options": [
+                        "increase",
+                        "require",
+                        "command",
+                        "encourage"
+                    ]
+                },
+                {
+                    "id": 27,
+                    "text": "",
+                    "options": [
+                        "disguise",
+                        "merit",
+                        "remedy",
+                        "ceremony"
+                    ]
+                },
+                {
+                    "id": 28,
+                    "text": "",
+                    "options": [
+                        "If so",
+                        "And yet",
+                        "On that",
+                        "With this"
+                    ]
+                },
+                {
+                    "id": 29,
+                    "text": "",
+                    "options": [
+                        "as for",
+                        "owing to",
+                        "in spite of",
+                        "with respect to"
+                    ]
+                },
+                {
+                    "id": 30,
+                    "text": "",
+                    "options": [
+                        "breaks down",
+                        "mixes up",
+                        "tears off",
+                        "results in"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "content": "Dimples are small folds or indentations on the cheeks of one’s face. Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon. Some cultures are found to show preference for dimples on one’s cheeks, as the feature is claimed to be a sign of 32 . Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles. When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin. Such dimples tend to occur in families, and are assumed to be an inherited feature. In fact, some researchers believe that the 34 of dimples from parents to children takes only one gene. If neither of the parents has dimple genes, their children will not 35 the trait. Not all dimples are formed by a genetic defect, though; some may appear due to the 36 of excessive fat on the face. Such dimples are not a permanent trait, for they vanish when the excessive fat goes away. Many babies, for example, have dimples on their 37 cheeks. As they grow older and lose their baby fat, the dimples may 38 with time. For those people who were born without 39 dimples, various methods can be applied to successfully create them. These methods 40 from a simple step like makeup to a drastic one like surgery. It all depends on whether you think it is worth the effort.",
+            "questions": [
+                {
+                    "id": 31,
+                    "text": "",
+                    "options": [
+                        "flaw",
+                        "exhibit",
+                        "chubby",
+                        "attractiveness",
+                        "fade",
+                        "rare",
+                        "range",
+                        "transfer",
+                        "natural",
+                        "presence"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "content": "The flip-flop is the simplest shoe on the planet. It consists of a piece of rubber, plastic, leather, or woven material in the outline of a foot, with a strap holding the sandal to a wearer’s toes. The name comes from the sound the sandals make when they slap the walking feet. The earliest record of people wearing the flip-flop comes from Egypt, but many ancient cultures had their own variants of the footwear. In the Greek version, the toe strap ran between the first and second toes, while Roman sandals had the strap between the second and third toes. The Mesopotamians wore the strap between the third and fourth toes. In India, “toe knob” sandals had a knob between the first and second toes. Modern flip-flops derive from Japanese zōris, which were often worn with socks dividing the big toe from the rest, and were typically made of rice straw. During World War II, Japan seized much of Southeast Asia’s rubber. In 1945, devastated from the war, the country set about establishing a cheap industry that could rebuild its economy. The Japanese used their rubber reserves from the war to mass-produce the simplest Japanese footwear. Rubber thus replaced rice straw as the major material for the flip-flop. In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home. The sandals have subsequently undergone redesign, often appearing in bright colors in line with Californian beach culture. They have remained popular due to their convenience, and are often worn with bathing suits or summer clothing. Some people also wear dressy versions for more formal occasions. Despite their popularity, flip-flops provoke some questions. Their simple design is responsible for many foot injuries. Another issue is the suitability of exposing feet on the street and places other than the beach. But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+            "questions": [
+                {
+                    "id": 41,
+                    "text": "Which culture most likely created the sandals shown in the picture?",
+                    "options": [
+                        "Indian.",
+                        "Greek.",
+                        "Mesopotamian.",
+                        "Roman."
+                    ]
+                },
+                {
+                    "id": 42,
+                    "text": "Why is the footwear discussed in the passage called “flip-flop”?",
+                    "options": [
+                        "Because of the noise it makes.",
+                        "Because of its changeable design.",
+                        "Because of its simple structure.",
+                        "Because of the comfort of wearing it."
+                    ]
+                },
+                {
+                    "id": 43,
+                    "text": "Which of the following is true about the modern development of the flip-flop?",
+                    "options": [
+                        "Modern flip-flops originated from Indian toe knob sandals.",
+                        "Americans loved the Japanese flip-flop because of its bright colors.",
+                        "Rubber became the major material of the flip-flop before World War II.",
+                        "The sandals American soldiers brought home from Japan later became modern flip-flops."
+                    ]
+                },
+                {
+                    "id": 44,
+                    "text": "Which of the following is NOT mentioned as a concern of wearing the flip-flop?",
+                    "options": [
+                        "Personal health.",
+                        "Poor quality.",
+                        "Social appropriateness.",
+                        "Marine pollution."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "content": "Ships are the lifeline of trade among countries. Almost everything, from food to machinery, comes by way of the sea in huge ships piloted by captains. But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor. The task of bringing the ship into the harbor and anchoring it is taken up by a different captain. This captain is called a marine pilot. A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor. The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds. Without the services of a marine pilot, docking ships would be hazardous. There would be a real chance of running aground and damaging the ship and the cargo, some of which might be dangerous if released into a water-based ecosystem. In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port. During different tides, currents may change from one direction to the other. The same strategy for docking a vessel during an incoming tide may not work during an outgoing tide. Also, the wind can significantly alter the direction of the ship and how it reacts, adding to the difficulty of anchoring the ship. Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking. Above all, it is about risk management. A marine pilot goes on board at a crucial time and controls the vessel based on his or her knowledge of the port and the situation at hand. The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment.",
+            "questions": [
+                {
+                    "id": 45,
+                    "text": "What is the passage mainly about?",
+                    "options": [
+                        "A special profession.",
+                        "Shipping and trading.",
+                        "Guidelines for safe docking.",
+                        "Protection of the marine environment."
+                    ]
+                },
+                {
+                    "id": 46,
+                    "text": "Which of the following is part of the knowledge that a marine pilot must have?",
+                    "options": [
+                        "The value of the ships.",
+                        "The content of the cargo.",
+                        "The weather conditions.",
+                        "The diversity of marine life."
+                    ]
+                },
+                {
+                    "id": 47,
+                    "text": "What does “a crucial time” in the last paragraph refer to?",
+                    "options": [
+                        "When the vessel hits a flat.",
+                        "When the channel is not deep enough.",
+                        "When there is a collision of two ships.",
+                        "When a ship is waiting to enter the port."
+                    ]
+                },
+                {
+                    "id": 48,
+                    "text": "How does the author conclude the passage in the last paragraph?",
+                    "options": [
+                        "By adding new details.",
+                        "By predicting future development.",
+                        "By summarizing the main points.",
+                        "By giving advice to the general public."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "content": "Probably the most widely used oil in cooking, olive oil is made by crushing olives with stone or steel blades to release the oil. Extra virgin oil, the finest grade, is made from the first pressing of the olives and has a very low acidity rate (under 1%). To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel. It must be free from impurity, while exhibiting some fruitiness and creating a pleasant bitter flavor along with a peppery sensation in the mouth. Second on the ranking is virgin olive oil. It is also a first pressing, but has a slightly higher acidity level (under 2%). Lastly, pure olive oil is the cheapest olive oil. It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking. Packaging and storage also have an impact on the quality of olive oil. Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C. Moisture and oxygen promote oxidation and therefore limit its shelf life. Plastic containers usually do not provide adequate protection from light, heat, or moisture; additionally, small particles in plastics can leak into the oil, which further reduces its quality.      Olive oil tasters have long adopted descriptive terms such as “pure” and “light” to evaluate the quality of olive oil. Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results. A redefinition of the term “olive oil” is also proposed to make a clear distinction between virgin olive oil and pure olive oil. Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+            "questions": [
+                {
+                    "id": 49,
+                    "text": "What is the passage mainly about?",
+                    "options": [
+                        "The flavor of olive oil.",
+                        "The trade of olive oil.",
+                        "The promotion of olive oil.",
+                        "The quality of olive oil."
+                    ]
+                },
+                {
+                    "id": 50,
+                    "text": "Which of the following statements is true about extra virgin olive oil?",
+                    "options": [
+                        "It is free from any bitter flavor.",
+                        "It is refined to remove its impurities.",
+                        "It requires mixing of more than one kind of oil.",
+                        "It has a lower acidity rate than virgin olive oil."
+                    ]
+                },
+                {
+                    "id": 51,
+                    "text": "According to the passage, what is the best way to store olive oil?",
+                    "options": [
+                        "In a plastic container in a damp cellar.",
+                        "In a clear glass bottle near the kitchen stove.",
+                        "In an airtight glass bottle in a kitchen cupboard.",
+                        "In an airproof bottle next to a well-lighted window."
+                    ]
+                },
+                {
+                    "id": 52,
+                    "text": "What is the IOC trying to do?",
+                    "options": [
+                        "Train more qualified olive oil tasters.",
+                        "Improve the ways of grading olive oil.",
+                        "Look for new techniques to boost production.",
+                        "Build better connections among industry members."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "content": "Researchers in Japan have installed on a train a speaker that barks like a dog and snorts like a deer in order to prevent collisions with animals on the tracks. The country has been troubled by a problem with trains colliding with deer on its railways. According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17. Deer are attracted to railway lines because of a need for iron in their diets. They lick the rails to pick up iron filings caused by the action of wheels against tracks. This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock. In the past, flashing red lights and even lion faces have been unsuccessfully trialed in an attempt to keep deer off the tracks. This new device has been invented by a team at the country’s Railway Technical Research Institute (RTRI). RTRI officials explain that deer have a habit of repeatedly snorting short, shrill sounds to alert other deer when they perceive danger. The barking of the hound, which drives deer to panic, strengthens the effect of the warning noise, according to the RTRI. When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly. RTRI researchers say late-night tests, at times when deer are most frequently seen by railway tracks, have resulted in a 45 percent reduction of deer sighting. Future plans include static barking sites where deer are commonly seen, but “the noises will not be blared in areas where people live beside the tracks.”",
+            "questions": [
+                {
+                    "id": 53,
+                    "text": "Why are deer attracted to train tracks?",
+                    "options": [
+                        "They mate at night near railways.",
+                        "They need nutrition from train tracks.",
+                        "They like to snort at the passing train.",
+                        "They sharpen their horns rubbing against the rails."
+                    ]
+                },
+                {
+                    "id": 54,
+                    "text": "What device has NOT been used to solve the railway problem in Japan?",
+                    "options": [
+                        "Flashing lights.",
+                        "Barking speakers.",
+                        "Noisy train tracks.",
+                        "Lion face paintings."
+                    ]
+                },
+                {
+                    "id": 55,
+                    "text": "Which of the following is true about the deer issue discussed in the passage?",
+                    "options": [
+                        "RTRI’s new invention prompts deer to run away.",
+                        "People living near the tracks complain about deer snorts.",
+                        "45 percent of train delays in Japan was caused by deer collision.",
+                        "A combination of sound and visual devices attracts more deer to the tracks."
+                    ]
+                },
+                {
+                    "id": 56,
+                    "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+                    "options": [
+                        "The heavy weight of iron materials.",
+                        "The cruelty of a barking hound.",
+                        "The battle between deer and other animals.",
+                        "The danger of a fast-moving train."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "content": "",
+            "questions": [
+                {
+                    "id": 100,
+                    "text": "說明：1.請將以下中文句子譯成正確、通順、達意的英文，並將答案寫在「答案卷」上。\n2.請依序作答，並標明子題號。每題4分，共8分。\n1. 我們有時會違背自己的意願去做某些事情，就只為了要取悅朋友。\n2. 其實，在面對同儕壓力的時候，我們應該學習堅持自己的原則。",
+                    "options": []
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "content": "",
+            "questions": [
+                {
+                    "id": 200,
+                    "text": "說明︰1.依提示在「答案卷」上寫一篇英文作文。\n2.文長至少120個單詞（words）。\n提示︰請觀察以下有關某家賣場週年慶的新聞報導圖片，並根據圖片內容想像其中發生的一個事\n件或故事，寫一篇英文作文，文長約120個單詞。文分兩段，第一段描述兩張圖片中所呈現\n的場景，以及正在發生的狀況或事件；第二段則敘述該事件（或故事）接下來的發展和結果。",
+                    "options": []
+                }
+            ]
+        }
+    ]
+}
