@@ -1,0 +1,592 @@
+{
+    "source": "D:\\wisdome-exercise\\pdf\\105學年度學科能力測驗－英文.pdf",
+    "date": "2023-09-14",
+    "passages": [
+        {
+            "id": 0,
+            "content": "",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+                    "options": [
+                        "journey",
+                        "traffic",
+                        "concert",
+                        "record"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Maria didn’t want to deliver the bad news to David about his failing the job interview. She herself was quite _____ about it.",
+                    "options": [
+                        "awful",
+                        "drowsy",
+                        "tragic",
+                        "upset"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "The newcomer speaks with a strong Irish _____; he must be from Ireland.",
+                    "options": [
+                        "accent",
+                        "identity",
+                        "gratitude",
+                        "signature"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+                    "options": [
+                        "ceased",
+                        "committed",
+                        "confined",
+                        "conveyed"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+                    "options": [
+                        "injury",
+                        "offense",
+                        "sacrifice",
+                        "victim"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "The principal of this school is a man of exceptional _____. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+                    "options": [
+                        "security",
+                        "maturity",
+                        "facility",
+                        "generosity"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "The science teacher always _____ the use of the laboratory equipment before she lets her students use it on their own.",
+                    "options": [
+                        "tolerates",
+                        "associates",
+                        "demonstrates",
+                        "exaggerates"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+                    "options": [
+                        "durable",
+                        "private",
+                        "realistic",
+                        "numerous"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+                    "options": [
+                        "Occasionally",
+                        "Automatically",
+                        "Enormously",
+                        "Innocently"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Many people try to save a lot of money before _____, since having enough money would give them a sense of security for their future.",
+                    "options": [
+                        "isolation",
+                        "promotion",
+                        "retirement",
+                        "announcement"
+                    ]
+                },
+                {
+                    "id": 11,
+                    "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+                    "options": [
+                        "alert",
+                        "itchy",
+                        "steady",
+                        "flexible"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "text": "Benson married Julie soon after he had _____ her heart and gained her parents’ approval.",
+                    "options": [
+                        "conquered",
+                        "estimated",
+                        "guaranteed",
+                        "intensified"
+                    ]
+                },
+                {
+                    "id": 13,
+                    "text": "The recent flood completely _____ my parents’ farm. The farmhouse and fruit trees were all gone and nothing was left.",
+                    "options": [
+                        "ruined",
+                        "cracked",
+                        "hastened",
+                        "neglected"
+                    ]
+                },
+                {
+                    "id": 14,
+                    "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+                    "options": [
+                        "primitive",
+                        "spiritual",
+                        "representative",
+                        "informative"
+                    ]
+                },
+                {
+                    "id": 15,
+                    "text": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+                    "options": [
+                        "liberally",
+                        "individually",
+                        "financially",
+                        "environmentally"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "content": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. 16 , their plan quickly got out of control. Their young captive 17 to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to 18 the little terror. They lowered the price to $1,500. Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money. 20 , he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+            "questions": [
+                {
+                    "id": 16,
+                    "text": "",
+                    "options": [
+                        "However",
+                        "Otherwise",
+                        "Furthermore",
+                        "Accordingly"
+                    ]
+                },
+                {
+                    "id": 17,
+                    "text": "",
+                    "options": [
+                        "made believe",
+                        "got along",
+                        "turned out",
+                        "felt like"
+                    ]
+                },
+                {
+                    "id": 18,
+                    "text": "",
+                    "options": [
+                        "hold on to",
+                        "get rid of",
+                        "make fun of",
+                        "take advantage of"
+                    ]
+                },
+                {
+                    "id": 19,
+                    "text": "",
+                    "options": [
+                        "how",
+                        "that",
+                        "why",
+                        "what"
+                    ]
+                },
+                {
+                    "id": 20,
+                    "text": "",
+                    "options": [
+                        "Namely",
+                        "Altogether",
+                        "Simply",
+                        "Instead"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure 21 a person’s body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine. When a person takes a polygraph test, four to six wires, called sensors, are 22 to different parts of his body. The sensors pick up signals from the person’s blood pressure, pulse, and perspiration. 23 the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested 24 truthful. Well-trained examiners can usually detect lying with a high degree of 25 when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+            "questions": [
+                {
+                    "id": 21,
+                    "text": "",
+                    "options": [
+                        "what",
+                        "when",
+                        "how",
+                        "why"
+                    ]
+                },
+                {
+                    "id": 22,
+                    "text": "",
+                    "options": [
+                        "adapted",
+                        "attached",
+                        "related",
+                        "restricted"
+                    ]
+                },
+                {
+                    "id": 23,
+                    "text": "",
+                    "options": [
+                        "Before",
+                        "Among",
+                        "Without",
+                        "Throughout"
+                    ]
+                },
+                {
+                    "id": 24,
+                    "text": "",
+                    "options": [
+                        "was being",
+                        "would be",
+                        "was to be",
+                        "would have been"
+                    ]
+                },
+                {
+                    "id": 25,
+                    "text": "",
+                    "options": [
+                        "quantity",
+                        "accuracy",
+                        "possibility",
+                        "emergency"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "content": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is 27 by key factors of production such as land, capital, and labor.      While international trade has long been conducted in history, its economic, social, and political importance has been 28 in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%. Today, all countries are involved in, and to varying degrees dependent on, trade with other countries. 29 international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main 30 force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+            "questions": [
+                {
+                    "id": 26,
+                    "text": "",
+                    "options": [
+                        "them",
+                        "such",
+                        "what",
+                        "it"
+                    ]
+                },
+                {
+                    "id": 27,
+                    "text": "",
+                    "options": [
+                        "installed",
+                        "reserved",
+                        "opposed",
+                        "determined"
+                    ]
+                },
+                {
+                    "id": 28,
+                    "text": "",
+                    "options": [
+                        "to the point",
+                        "on the rise",
+                        "off the hook",
+                        "for the record"
+                    ]
+                },
+                {
+                    "id": 29,
+                    "text": "",
+                    "options": [
+                        "Despite",
+                        "Between",
+                        "Without",
+                        "Under"
+                    ]
+                },
+                {
+                    "id": 30,
+                    "text": "",
+                    "options": [
+                        "driving",
+                        "pulling",
+                        "riding",
+                        "bringing"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "content": "Are forests always created by nature? A man from rural India proves that this is not necessarily 31 . Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods. Though he never went to college, he can talk about plants and trees like an expert. In 1977, he bought a piece of rocky wasteland with the 32 of growing trees on it. In the beginning, people thought he was 33 to waste his time and money on the land. But he simply 34 them and kept working on the soil and planting trees there. The land was so 35 that it had to be watered several times a day. Kareem had to fetch the water from a source that was a kilometer away. In the first two years, none of the trees he planted 36 . However, in the third year, several young trees started growing. Greatly 37 by the result, Kareem planted more trees and his man-made forest began to take shape. Kareem let his forest grow naturally, without using fertilizers or insecticides. He believed in the ability of nature to renew itself without the 38 of humans. That’s why he did not allow fallen leaves or twigs from the forest to be removed. After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest. Today, his forest is home to 1,500 medicinal plants, 2,000 varieties of trees, rare birds, animals, and insects. Now, scientists from all over the world come to visit his 40 . They hope to find the secret of his success.",
+            "questions": [
+                {
+                    "id": 31,
+                    "text": "",
+                    "options": "deserted"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "interference"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "vision"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "crazy"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "creation"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "encouraged"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "ignored"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "survived"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "dry"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "true"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "content": "In Japan, a person’s blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows. The blood-type belief has been used in unusual ways. The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.” The belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B. The blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura- hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+            "questions": [
+                {
+                    "id": 41,
+                    "text": "What is the speaker’s attitude toward the blood-type belief in Japan?",
+                    "options": [
+                        "Negative.",
+                        "Defensive.",
+                        "Objective.",
+                        "Encouraging."
+                    ]
+                },
+                {
+                    "id": 42,
+                    "text": "According to the examples mentioned in the passage, which blood type can we infer is the LEAST favored in Japan?",
+                    "options": [
+                        "Type A.",
+                        "Type B.",
+                        "Type O.",
+                        "Type AB."
+                    ]
+                },
+                {
+                    "id": 43,
+                    "text": "Why did Prime Minister Ryu Matsumoto resign from office?",
+                    "options": [
+                        "He revealed his rival’s blood type.",
+                        "He was seen behaving rudely on TV.",
+                        "He blamed his failings on local officials.",
+                        "He was discriminated against because of blood type."
+                    ]
+                },
+                {
+                    "id": 44,
+                    "text": "Which field is NOT mentioned in the passage as being affected by blood-type beliefs?",
+                    "options": [
+                        "Education.",
+                        "Sports.",
+                        "Business.",
+                        "Medicine."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "content": "Like many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.      Jeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the “Kiddie Stool.” Jeanie’s Kiddie Stool won first place in her school’s contest. Two years later, it was awarded first prize again at Houston’s first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+            "questions": [
+                {
+                    "id": 45,
+                    "text": "Why did Jeanie Low invent the Kiddie Stool, according to the passage?",
+                    "options": [
+                        "Many other five-year-olds had problems reaching the bathroom sink.",
+                        "She did not think that plastic stools were tall enough for her.",
+                        "The stool in her bathroom was not firm and often got in the way.",
+                        "She was invited to enter an invention contest held by her school."
+                    ]
+                },
+                {
+                    "id": 46,
+                    "text": "Which of the following statements is true about how the Kiddie Stool works?",
+                    "options": [
+                        "The Kiddie Stool will swing out only when the cabinet door opens.",
+                        "It uses hinges and magnets to keep the wooden pieces in place.",
+                        "It swings from left to right to be attached to the cabinet door.",
+                        "The platform is supported by two pieces of metal."
+                    ]
+                },
+                {
+                    "id": 47,
+                    "text": "What are the characteristics of Jeanie’s Kiddie Stool?",
+                    "options": [
+                        "Permanent and foldable.",
+                        "Fragile and eye-catching.",
+                        "Conventional and touching.",
+                        "Convenient and recyclable."
+                    ]
+                },
+                {
+                    "id": 48,
+                    "text": "Which of the following sayings best captures the spirit of Jeanie Low’s story?",
+                    "options": [
+                        "Failure is the mother of success.",
+                        "There’s nothing new under the sun.",
+                        "Necessity is the mother of invention.",
+                        "Genius is 1% inspiration and 99% perspiration."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "content": "Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children’s Fund. The report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.” Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.      The report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence. The report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.",
+            "questions": [
+                {
+                    "id": 49,
+                    "text": "What is this article mainly about?",
+                    "options": [
+                        "Why people are moving away from their own countries.",
+                        "Why there are civil wars and violence in the Middle East.",
+                        "Why many schools have become shelters for displaced families.",
+                        "Why many children in the Middle East are not attending school."
+                    ]
+                },
+                {
+                    "id": 50,
+                    "text": "Why is “Iraq” mentioned in the second paragraph?",
+                    "options": [
+                        "To convince people that temporary housing can be easily found.",
+                        "To prove that classrooms there are big enough to host many families.",
+                        "To give an example of why schools are not usable for children’s learning.",
+                        "To show how structural damages of school can affect the quality of education."
+                    ]
+                },
+                {
+                    "id": 51,
+                    "text": "What does the phrase “in the balance” in the last paragraph most likely mean?",
+                    "options": [
+                        "Being well taken care of.",
+                        "In an uncertain situation.",
+                        "Under control by the authority.",
+                        "Moving in the wrong direction."
+                    ]
+                },
+                {
+                    "id": 52,
+                    "text": "According to the passage, which of the following statements is true?",
+                    "options": [
+                        "The war in Syria has been going on since 2011.",
+                        "More than nine thousand schools have been destroyed by wars.",
+                        "Thirteen million people have been forced to leave their homes in the Middle East.",
+                        "Forty percent of all children in the world are not attending schools due to ongoing conflict."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "content": "Many marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean? An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals’ only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.      The researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake’s likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+            "questions": [
+                {
+                    "id": 53,
+                    "text": "What is the purpose of the study described in this passage?",
+                    "options": [
+                        "To test if sea snakes lose body water at sea.",
+                        "To see whether sea snakes drink water offered to them.",
+                        "To find out if sea snakes are greatly reduced in population.",
+                        "To prove that sea snakes drink only water coming from rivers."
+                    ]
+                },
+                {
+                    "id": 54,
+                    "text": "Which of the following is true about sea snakes?",
+                    "options": [
+                        "Their salt glands can remove the salt in the seawater.",
+                        "They can drink seawater when it mixes with rainwater.",
+                        "The ocean is like a desert to them since they don’t drink seawater.",
+                        "They usually live near the coastal area where there is more fresh water."
+                    ]
+                },
+                {
+                    "id": 55,
+                    "text": "Which of the following is one of the findings of the study?",
+                    "options": [
+                        "If a sea snake was dried and weak, it drank more fresh water.",
+                        "If captured in the wet season, sea snakes drank a lot of fresh water.",
+                        "Most of the sea snakes had lost a lot of body water when captured.",
+                        "Dehydration is not a problem among sea snakes since they live at sea."
+                    ]
+                },
+                {
+                    "id": 56,
+                    "text": "What can be inferred from the study?",
+                    "options": [
+                        "Sea snakes can easily survive long years of drought.",
+                        "Evolution will very likely enable sea snakes to drink seawater.",
+                        "Sea snakes will be the last creature affected by global warming.",
+                        "The sea snakes’ population distribution is closely related to rainfall."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "content": "",
+            "questions": [
+                {
+                    "id": 100,
+                    "text": "說明：1.請將以下中文句子譯成正確、通順、達意的英文，並將答案寫在「答案卷」上。\n2.請依序作答，並標明子題號。每題4分，共8分。\n1. 相較於他們父母的世代，現今年輕人享受較多的自由和繁榮。\n2. 但是在這個快速改變的世界中，他們必須學習如何有效地因應新的挑戰。",
+                    "options": []
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "content": "",
+            "questions": [
+                {
+                    "id": 200,
+                    "text": "說明︰1.依提示在「答案卷」上寫一篇英文作文。\n2.文長至少120個單詞（words）。\n提示︰你認為家裡生活環境的維持應該是誰的責任?請寫一篇短文說明你的看法。文分兩\n段，第一段說明你對家事該如何分工的看法及理由，第二段舉例說明你家中家事分\n工的情形，並描述你自己做家事的經驗及感想。",
+                    "options": []
+                }
+            ]
+        }
+    ]
+}

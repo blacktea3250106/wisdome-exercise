@@ -1,0 +1,592 @@
+{
+    "source": "D:\\wisdome-exercise\\pdf\\107學年度學科能力測驗－英文.pdf",
+    "date": "2023-09-14",
+    "passages": [
+        {
+            "id": 0,
+            "content": "",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+                    "options": [
+                        "mature",
+                        "usual",
+                        "seasonal",
+                        "particular"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Writing term papers and giving oral reports are typical course _____ for college students.",
+                    "options": [
+                        "requirements",
+                        "techniques",
+                        "situations",
+                        "principles"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+                    "options": [
+                        "distribute",
+                        "fulfill",
+                        "convince",
+                        "monitor"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Few people will trust you if you continue making _____ promises and never make efforts to keep them.",
+                    "options": [
+                        "chilly",
+                        "liberal",
+                        "hollow",
+                        "definite"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Becky _____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+                    "options": [
+                        "slipped",
+                        "dumped",
+                        "twisted",
+                        "recovered"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Research shows that men and women usually think differently. For example, they have quite different _____ about what marriage means in their life.",
+                    "options": [
+                        "decisions",
+                        "beliefs",
+                        "styles",
+                        "degrees"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "The new manager is very _____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+                    "options": [
+                        "persuasive",
+                        "tolerable",
+                        "suspicious",
+                        "demanding"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+                    "options": [
+                        "anxiously",
+                        "precisely",
+                        "evidently",
+                        "distinctly"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+                    "options": [
+                        "deposited",
+                        "reserved",
+                        "vanished",
+                        "surrounded"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "The interviewees were trying very hard to _____ the interviewers that they were very capable and should be given the job.",
+                    "options": [
+                        "credit",
+                        "impress",
+                        "relieve",
+                        "acquire"
+                    ]
+                },
+                {
+                    "id": 11,
+                    "text": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+                    "options": [
+                        "flake",
+                        "blossom",
+                        "blanket",
+                        "flash"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "text": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+                    "options": [
+                        "angles",
+                        "margins",
+                        "exceptions",
+                        "limitations"
+                    ]
+                },
+                {
+                    "id": 13,
+                    "text": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+                    "options": [
+                        "hardship",
+                        "comment",
+                        "bargain",
+                        "penalty"
+                    ]
+                },
+                {
+                    "id": 14,
+                    "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+                    "options": [
+                        "conducted",
+                        "confirmed",
+                        "implied",
+                        "improved"
+                    ]
+                },
+                {
+                    "id": 15,
+                    "text": "Intense, fast-moving fires raged across much of California last week. The _____ firestorm has claimed the lives of thirty people.",
+                    "options": [
+                        "efficient",
+                        "reliable",
+                        "massive",
+                        "adequate"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "content": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged. It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections. Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+            "questions": [
+                {
+                    "id": 16,
+                    "text": "",
+                    "options": [
+                        "more",
+                        "less",
+                        "better",
+                        "worse"
+                    ]
+                },
+                {
+                    "id": 17,
+                    "text": "",
+                    "options": [
+                        "spark",
+                        "carve",
+                        "drill",
+                        "grind"
+                    ]
+                },
+                {
+                    "id": 18,
+                    "text": "",
+                    "options": [
+                        "refer to",
+                        "answer for",
+                        "take part in",
+                        "put up with"
+                    ]
+                },
+                {
+                    "id": 19,
+                    "text": "",
+                    "options": [
+                        "if",
+                        "but",
+                        "where",
+                        "which"
+                    ]
+                },
+                {
+                    "id": 20,
+                    "text": "",
+                    "options": [
+                        "into",
+                        "without",
+                        "under",
+                        "beyond"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! 21 this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment. Matter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable 22 : human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to 23 the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to 24 waters to absorb the oil. Across the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this 25 hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+            "questions": [
+                {
+                    "id": 21,
+                    "text": "",
+                    "options": [
+                        "For",
+                        "While",
+                        "In case",
+                        "As long as"
+                    ]
+                },
+                {
+                    "id": 22,
+                    "text": "",
+                    "options": [
+                        "equipment",
+                        "ingredient",
+                        "product",
+                        "resource"
+                    ]
+                },
+                {
+                    "id": 23,
+                    "text": "",
+                    "options": [
+                        "get away with",
+                        "clean up after",
+                        "run out of",
+                        "look down upon"
+                    ]
+                },
+                {
+                    "id": 24,
+                    "text": "",
+                    "options": [
+                        "pollute",
+                        "polluting",
+                        "polluted",
+                        "pollution"
+                    ]
+                },
+                {
+                    "id": 25,
+                    "text": "",
+                    "options": [
+                        "unneeded",
+                        "overthrown",
+                        "excluded",
+                        "disconnected"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "content": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and 26 they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person’s body is 27 ; when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world. Yet, lucid dreaming is 28 just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. 29 , it is a way for you to put the deepest areas of your brain to good use while you’re sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, 30 who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+            "questions": [
+                {
+                    "id": 26,
+                    "text": "",
+                    "options": [
+                        "what",
+                        "why",
+                        "when",
+                        "which"
+                    ]
+                },
+                {
+                    "id": 27,
+                    "text": "",
+                    "options": [
+                        "apart",
+                        "absent",
+                        "alone",
+                        "asleep"
+                    ]
+                },
+                {
+                    "id": 28,
+                    "text": "",
+                    "options": [
+                        "related to",
+                        "aside from",
+                        "more than",
+                        "nothing but"
+                    ]
+                },
+                {
+                    "id": 29,
+                    "text": "",
+                    "options": [
+                        "In other words",
+                        "By no means",
+                        "At any cost",
+                        "On the contrary"
+                    ]
+                },
+                {
+                    "id": 30,
+                    "text": "",
+                    "options": [
+                        "such as",
+                        "regardless of",
+                        "with respect to",
+                        "on behalf of"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "content": "Fortune cookies, commonly served after meals at Chinese restaurants in the U.S., are characterized by a fortune, which is written on a small piece of paper tucked inside the cookie. There are several 31 stories about the origin of the fortune cookie. None of them, however, has been proven to be entirely true. One of these stories 32 the cookie’s origin back to 13th- and 14th-century China, which was then occupied by the Mongols. According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste. The revolution turned out to be 34 and eventually led to the formation of the Ming Dynasty. This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies. Another 36 claims that David Jung, a Chinese immigrant living in Los Angeles, created the fortune cookie in 1918. Concerned about the poor people he saw wandering near his shop, he made cookies and passed them out free on the streets. Each cookie 37 a strip of paper inside with an inspirational Bible quotation on it. However, the more generally accepted story is that the fortune cookie first 38 in either 1907 or 1914 in San Francisco, created by a Japanese immigrant, Makoto Hagiwara. The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 . He enclosed thank- you notes in the cookies and served them to his guests with tea. Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes. Such fortune cookies became common in Chinese restaurants in the U.S. after World War II.",
+            "questions": [
+                {
+                    "id": 31,
+                    "text": "",
+                    "options": "account"
+                },
+                {
+                    "id": 32,
+                    "text": "",
+                    "options": "appeared"
+                },
+                {
+                    "id": 33,
+                    "text": "",
+                    "options": "competing"
+                },
+                {
+                    "id": 34,
+                    "text": "",
+                    "options": "contained"
+                },
+                {
+                    "id": 35,
+                    "text": "",
+                    "options": "replaced"
+                },
+                {
+                    "id": 36,
+                    "text": "",
+                    "options": "secret"
+                },
+                {
+                    "id": 37,
+                    "text": "",
+                    "options": "successful"
+                },
+                {
+                    "id": 38,
+                    "text": "",
+                    "options": "tastes"
+                },
+                {
+                    "id": 39,
+                    "text": "",
+                    "options": "traces"
+                },
+                {
+                    "id": 40,
+                    "text": "",
+                    "options": "treats"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "content": "For more than two hundred years, the White House has stood as a symbol of the United States Presidency, the U.S. government, and the American people. In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.” As preparations began, a competition was held to find a builder of the “President’s House.” Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design. Construction began when the first cornerstone was laid in October of 1792. Although President Washington oversaw the construction of the house, he never lived in it. It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in. American presidents can express their individual style in how they decorate the house and in how they receive the public. Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home. President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since. In addition, Jefferson welcomed visitors to annual receptions on New Year’s Day and on the Fourth of July. Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue. It was not until Grover Cleveland’s first presidency that some effective crowd control measures were implemented to address the problem caused by this practice. At various times in history, the White House has been known as the “President’s Palace,” the “President’s House,” and the “Executive Mansion.” President Theodore Roosevelt officially gave the White House its current name in 1901.",
+            "questions": [
+                {
+                    "id": 41,
+                    "text": "What is this passage mainly about?",
+                    "options": [
+                        "The design of the White House.",
+                        "The location of the White House.",
+                        "The importance of the White House.",
+                        "The history of the White House."
+                    ]
+                },
+                {
+                    "id": 42,
+                    "text": "What does “this practice” refer to in the second paragraph?",
+                    "options": [
+                        "Holding an inaugural open house.",
+                        "Accommodating the crowds comfortably.",
+                        "Decorating the White House.",
+                        "Joining in the swearing-in ceremony."
+                    ]
+                },
+                {
+                    "id": 43,
+                    "text": "Who initiated the construction of the White House?",
+                    "options": [
+                        "John Adams.",
+                        "James Hoban.",
+                        "George Washington.",
+                        "Thomas Jefferson."
+                    ]
+                },
+                {
+                    "id": 44,
+                    "text": "According to the passage, which of the following is NOT true about the White House?",
+                    "options": [
+                        "The White House has had several names.",
+                        "The designer of the White House was an American president.",
+                        "People were not allowed to visit the White House during wartime.",
+                        "The White House is located in a district not larger than ten miles square."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "content": "West Nile is a tropical disease that begins in birds, which pass it on to mosquitoes that then go on to infect human beings with a bite. Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite. About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so. A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma. Some—especially the elderly and those with weak immune systems—die. That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary. The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200. The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease. Why was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it? Blame the weather. An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle. The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds. The severity of tropical diseases is also a matter of whether governments are capable—and willing— to defend their populations against infections. Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease. Tropical infections are thus as much related to government inaction as they are to climate.",
+            "questions": [
+                {
+                    "id": 45,
+                    "text": "What is this passage mainly about?",
+                    "options": [
+                        "West Nile and methods to fight it.",
+                        "West Nile and governmental efficiency.",
+                        "West Nile and the conditions its virus thrives in.",
+                        "West Nile and its relation to tropical diseases."
+                    ]
+                },
+                {
+                    "id": 46,
+                    "text": "Which of the following statements is true about West Nile?",
+                    "options": [
+                        "Its symptoms usually appear within two weeks.",
+                        "It is spread through air and water in tropical areas.",
+                        "Over 20% of people who contract it will suffer severe symptoms.",
+                        "It comes from direct human contact with birds infected with the virus."
+                    ]
+                },
+                {
+                    "id": 47,
+                    "text": "What did Dallas County do to fight off West Nile?",
+                    "options": [
+                        "They sprayed pesticide from the air.",
+                        "They asked citizens to stay away from dead birds.",
+                        "They encouraged citizens to get vaccinations.",
+                        "They drained the swimming pools in the county."
+                    ]
+                },
+                {
+                    "id": 48,
+                    "text": "Which of the following is a reason why Dallas was hit most seriously in the U.S. in 2012?",
+                    "options": [
+                        "The increasing population in Texas raised the risk of contracting the disease.",
+                        "The government did not issue a warning about the disease in time.",
+                        "The residents worried about the county’s decision and action.",
+                        "The weather of the previous winter was not as cold as usual."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "content": "Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?” To turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly. There are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs. Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.",
+            "questions": [
+                {
+                    "id": 49,
+                    "text": "Which of the following is closest in meaning to “arid” in the first paragraph?",
+                    "options": [
+                        "Occupied.",
+                        "Isolated.",
+                        "Dry.",
+                        "Remote."
+                    ]
+                },
+                {
+                    "id": 50,
+                    "text": "What is the second paragraph mainly about?",
+                    "options": [
+                        "The high cost of desalinating seawater.",
+                        "The major chemical characteristics of seawater.",
+                        "The urgent need to turn seawater into fresh water.",
+                        "The amount of energy produced in the desalination of seawater."
+                    ]
+                },
+                {
+                    "id": 51,
+                    "text": "According to the passage, which of the following statements is true?",
+                    "options": [
+                        "Mixing salt with water is not as easy as removing salt from seawater.",
+                        "Desalinating seawater may kill some sea creatures and disturb the food chain.",
+                        "Covering 70% of the Earth, the ocean has always satisfied human needs for water.",
+                        "The increasing population in Saudi Arabia has resulted in shortages of fresh water."
+                    ]
+                },
+                {
+                    "id": 52,
+                    "text": "Which of the following best describes the author’s attitude toward the future of desalination?",
+                    "options": [
+                        "Amazed.",
+                        "Doubtful.",
+                        "Conservative.",
+                        "Hopeful."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "content": "Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep- inducing, yet it is true that many lullabies—including those sung today—have dark undertones.      Research has shown that lullabies, when used correctly, can soothe and possibly even help to heal an infant; but it is the caretaker’s voice and the rhythm and melody of the music that babies respond to, not the content of the song. Then, what is the function of the content? According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable. Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver’s emotions. Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns. The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones. Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties. Lullabies, therefore, serve as therapy for the mother. In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.”",
+            "questions": [
+                {
+                    "id": 53,
+                    "text": "Which of the following titles best describes the main idea of this passage?",
+                    "options": [
+                        "The Origin of Lullabies",
+                        "The Functions of Lullabies",
+                        "Threatening Lullabies",
+                        "Sleep-Inducing Lullabies"
+                    ]
+                },
+                {
+                    "id": 54,
+                    "text": "Which of the following is closest in meaning to the word “undertones” in the first paragraph?",
+                    "options": [
+                        "Consequences.",
+                        "Vocals.",
+                        "Whispers.",
+                        "Messages."
+                    ]
+                },
+                {
+                    "id": 55,
+                    "text": "What does the author use to support the idea that lullabies can have a soothing effect?",
+                    "options": [
+                        "Research reports.",
+                        "Examples found in history.",
+                        "Stories of caretakers.",
+                        "The author’s personal experiences."
+                    ]
+                },
+                {
+                    "id": 56,
+                    "text": "According to this passage, which of the following statements is true?",
+                    "options": [
+                        "Scary lullabies better help babies fall asleep.",
+                        "Mothers prefer to sing lullabies with a joyful melody.",
+                        "Lullabies comfort not only the baby but also the mother.",
+                        "Babies react to both the music and the lyrics of lullabies."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "content": "",
+            "questions": [
+                {
+                    "id": 100,
+                    "text": "說明：1.請將以下中文句子譯成正確、通順、達意的英文，並將答案寫在「答案卷」上。\n2.請依序作答，並標明子題號。每題4分，共8分。\n1. 近年來，有越來越多超級颱風，通常造成嚴重災害。\n2. 颱風來襲時，我們應準備足夠的食物，並待在室內，若有必要，應迅速移動至安全的地方。",
+                    "options": []
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "content": "",
+            "questions": [
+                {
+                    "id": 200,
+                    "text": "說明︰1.依提示在「答案卷」上寫一篇英文作文。\n2.文長至少120個單詞（words）。\n提示︰排隊雖是生活中常有的經驗，但我們也常看到民眾因一時好奇或基於嘗鮮心理而出現大排\n長龍（form a long line）的現象，例如景點初次開放或媒體介紹某家美食餐廳後，人們便蜂\n擁而至。請以此種一窩蜂式的「排隊現象」為題，寫一篇英文作文。第一段，以個人、親友\n的經驗或報導所聞為例，試描述這種排隊情形；第二段，說明自己對此現象的心得或感想。",
+                    "options": []
+                }
+            ]
+        }
+    ]
+}

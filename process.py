@@ -111,7 +111,7 @@ class ExerciseProcessor:
         
         # 使用正則表達式查找相應的匹配項
         contents = re.findall(contents_pattern, text, re.DOTALL)
-        questions = re.findall(question_pattern, text)
+        question_group = re.findall(question_pattern, text)
 
         # 移除掉與contents重複的字串避免搜索錯誤
         remaining_text = text[len(contents[-1]):] # 這邊可優化
@@ -121,30 +121,28 @@ class ExerciseProcessor:
         # 移除不必要的內容
         options = [(opt[0], opt[1].split("\n")[0]) for opt in options]
 
-        init_start = int(questions[0][0])
-
         passages = []
-        for i, (start, end) in enumerate(questions):
-            start, end = int(start), int(end)
-            
-            # 根據題組的起始和結束號碼過濾出相應的選項
-            current_options = options[start-init_start:end-init_start+1]
-            options = [opt[1].replace("\n", "") for opt in current_options]
-            
-            question = {
-                "id": start,
-                "text": '',
-                "options": options
-            }
 
-            content = contents[i].replace("\n", " ")
+        for i, (start, end) in enumerate(question_group):
+            start, end = int(start), int(end)
+
+            questions = []
+            for q_id in range(start, end+1):
+                question = {
+                    "id": q_id,
+                    "text": '',
+                    "options": options[q_id-start][1]
+                }
+
+                content = contents[i].replace("\n", " ")
+                questions.append(question)
 
             passage = {
                 'id': self.passage_id,
                 'content': content,
-                'questions': [question]
+                'questions': questions
             }
-            
+
             passages.append(passage)
             self.passage_id += 1
 
@@ -155,43 +153,42 @@ class ExerciseProcessor:
         contents_pattern = r'第\d+至\d+題為題組\n(.*?)\n\(A\)'
         question_pattern = r'第(\d+)至(\d+)題為題組'
         option_pattern = r'\((\w)\) ([^\)]+?)\s*(?=\(|$)'
-        
+
         # 使用正則表達式查找相應的匹配項
         contents = re.findall(contents_pattern, text, re.DOTALL)
-        questions = re.findall(question_pattern, text)
+        question_group = re.findall(question_pattern, text)
         options = re.findall(option_pattern, text)
-        
+
         # 移除選項中的換行和後續內容
         options = [(opt[0], opt[1].split("\n")[0]) for opt in options]
-        
-        passages = []
-        init_start = int(questions[0][0])
 
-        for i, (start, end) in enumerate(questions):
+        passages = []
+
+        for i, (start, end) in enumerate(question_group):
             start, end = int(start), int(end)
 
-            # 根據題組的起始和結束號碼過濾出相應的選項
-            current_options = options[start-init_start:end-init_start+1]
-            options_list = [opt[1] for opt in current_options]
+            questions = []
+            for q_id in range(start, end+1):
+                question = {
+                    "id": q_id,
+                    "text": '',
+                    "options": options[q_id-start][1]
+                }
 
-            question = {
-                "id": start,
-                "text": '',
-                "options": options_list
-            }
-
-            content = contents[i].replace("\n", " ")
+                content = contents[i].replace("\n", " ")
+                questions.append(question)
 
             passage = {
                 'id': self.passage_id,
-                'content': content,  
-                'questions': [question]
+                'content': content,
+                'questions': questions
             }
-            
+
+
             passages.append(passage)
             self.passage_id += 1
 
-        return passages  
+        return passages
     
     def reading_test(self, text):
         contents_pattern = r'第(\d+)至(\d+)題為題組\n(.*?)(?=\n\1\.\s.*?\(A\))'

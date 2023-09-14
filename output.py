@@ -49,11 +49,12 @@ def cloze_test(passages):
         print("passage-id:", passage['id'])
         print("passage-content:", passage['content'])
         print()
-        for question in passage['questions']:
+        
+        option_code = [ f"({(chr(65 + i))})" for i in range(len(passage['questions']))]
+        for i, question in enumerate(passage['questions']):
             print("questions-id:", question['id'])
             options = question['options']
-            formatted_options = ['(%s) %s' % (chr(65 + i), option) for i, option in enumerate(options)]
-            print("questions-options:", ' '.join(formatted_options))
+            print("questions-options:",option_code[i],options)
             print()
 
 # 篇章結構 output
@@ -63,11 +64,12 @@ def text_structure(passages):
         print("passage-id:", passage['id'])
         print("passage-content:", passage['content'])
         print()
-        for question in passage['questions']:
+        
+        option_code = [ f"({(chr(65 + i))})" for i in range(len(passage['questions']))]
+        for i, question in enumerate(passage['questions']):
             print("questions-id:", question['id'])
             options = question['options']
-            formatted_options = ['(%s) %s' % (chr(65 + i), option) for i, option in enumerate(options)]
-            print("questions-options:", ' '.join(formatted_options))
+            print("questions-options:",option_code[i],options)
             print()
 
 # 閱讀測驗 output
