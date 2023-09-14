@@ -1,4 +1,4 @@
-# Wisdome - Data Engineer Exercise test
+# Wisdome - Data Engineer Exercise
 
 # 專案介紹
 
