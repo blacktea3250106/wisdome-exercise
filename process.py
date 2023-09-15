@@ -131,7 +131,7 @@ class ExerciseProcessor:
                 question = {
                     "id": q_id,
                     "text": '',
-                    "options": options[q_id-start][1]
+                    "options": [options[q_id-start][1]]
                 }
 
                 content = contents[i].replace("\n", " ")
@@ -172,7 +172,7 @@ class ExerciseProcessor:
                 question = {
                     "id": q_id,
                     "text": '',
-                    "options": options[q_id-start][1]
+                    "options": [options[q_id-start][1]]
                 }
 
                 content = contents[i].replace("\n", " ")

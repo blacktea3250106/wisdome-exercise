@@ -53,7 +53,7 @@ def cloze_test(passages):
         option_code = [ f"({(chr(65 + i))})" for i in range(len(passage['questions']))]
         for i, question in enumerate(passage['questions']):
             print("questions-id:", question['id'])
-            options = question['options']
+            options = question['options'][0]
             print("questions-options:",option_code[i],options)
             print()
 
@@ -68,7 +68,7 @@ def text_structure(passages):
         option_code = [ f"({(chr(65 + i))})" for i in range(len(passage['questions']))]
         for i, question in enumerate(passage['questions']):
             print("questions-id:", question['id'])
-            options = question['options']
+            options = question['options'][0]
             print("questions-options:",option_code[i],options)
             print()
 
