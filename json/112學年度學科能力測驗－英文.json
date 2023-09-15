@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\112學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -227,52 +227,72 @@
                 {
                     "id": 21,
                     "text": "",
-                    "options": "absorption"
+                    "options": [
+                        "absorption"
+                    ]
                 },
                 {
                     "id": 22,
                     "text": "",
-                    "options": "active"
+                    "options": [
+                        "active"
+                    ]
                 },
                 {
                     "id": 23,
                     "text": "",
-                    "options": "alert"
+                    "options": [
+                        "alert"
+                    ]
                 },
                 {
                     "id": 24,
                     "text": "",
-                    "options": "combat"
+                    "options": [
+                        "combat"
+                    ]
                 },
                 {
                     "id": 25,
                     "text": "",
-                    "options": "option"
+                    "options": [
+                        "option"
+                    ]
                 },
                 {
                     "id": 26,
                     "text": "",
-                    "options": "effective"
+                    "options": [
+                        "effective"
+                    ]
                 },
                 {
                     "id": 27,
                     "text": "",
-                    "options": "even"
+                    "options": [
+                        "even"
+                    ]
                 },
                 {
                     "id": 28,
                     "text": "",
-                    "options": "status"
+                    "options": [
+                        "status"
+                    ]
                 },
                 {
                     "id": 29,
                     "text": "",
-                    "options": "pass through"
+                    "options": [
+                        "pass through"
+                    ]
                 },
                 {
                     "id": 30,
                     "text": "",
-                    "options": "reach for"
+                    "options": [
+                        "reach for"
+                    ]
                 }
             ]
         },
@@ -283,22 +303,30 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "This consistency serves as a proof that synesthesia is real."
+                    "options": [
+                        "This consistency serves as a proof that synesthesia is real."
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "Meanwhile, environmental influences seem to shape a person’s synesthesia."
+                    "options": [
+                        "Meanwhile, environmental influences seem to shape a person’s synesthesia."
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "People with synesthesia used to be accused of making their experiences up."
+                    "options": [
+                        "People with synesthesia used to be accused of making their experiences up."
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "Some studies even show that people may all be synesthetic to some degree."
+                    "options": [
+                        "Some studies even show that people may all be synesthetic to some degree."
+                    ]
                 }
             ]
         },

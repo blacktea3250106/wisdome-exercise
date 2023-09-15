@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\107學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "account"
+                    "options": [
+                        "account"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "appeared"
+                    "options": [
+                        "appeared"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "competing"
+                    "options": [
+                        "competing"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "contained"
+                    "options": [
+                        "contained"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "replaced"
+                    "options": [
+                        "replaced"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "secret"
+                    "options": [
+                        "secret"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "successful"
+                    "options": [
+                        "successful"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "tastes"
+                    "options": [
+                        "tastes"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "traces"
+                    "options": [
+                        "traces"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "treats"
+                    "options": [
+                        "treats"
+                    ]
                 }
             ]
         },

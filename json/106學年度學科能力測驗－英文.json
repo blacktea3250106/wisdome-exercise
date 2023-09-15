@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\106學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "reflected"
+                    "options": [
+                        "reflected"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "parts"
+                    "options": [
+                        "parts"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "admired"
+                    "options": [
+                        "admired"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "functioned"
+                    "options": [
+                        "functioned"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "prompt"
+                    "options": [
+                        "prompt"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "decorating"
+                    "options": [
+                        "decorating"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "spiritual"
+                    "options": [
+                        "spiritual"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "discovered"
+                    "options": [
+                        "discovered"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "symbols"
+                    "options": [
+                        "symbols"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "healing"
+                    "options": [
+                        "healing"
+                    ]
                 }
             ]
         },

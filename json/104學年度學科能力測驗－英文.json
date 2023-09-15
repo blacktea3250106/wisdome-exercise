@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\104學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "familiar"
+                    "options": [
+                        "familiar"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "honor"
+                    "options": [
+                        "honor"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "device"
+                    "options": [
+                        "device"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "removable"
+                    "options": [
+                        "removable"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "known as"
+                    "options": [
+                        "known as"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "protest"
+                    "options": [
+                        "protest"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "symbol"
+                    "options": [
+                        "symbol"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "twisted into"
+                    "options": [
+                        "twisted into"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "associated with"
+                    "options": [
+                        "associated with"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "historical"
+                    "options": [
+                        "historical"
+                    ]
                 }
             ]
         },

@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\110學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "means"
+                    "options": [
+                        "means"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "soreness"
+                    "options": [
+                        "soreness"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "point to"
+                    "options": [
+                        "point to"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "argue"
+                    "options": [
+                        "argue"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "demanding"
+                    "options": [
+                        "demanding"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "abide by"
+                    "options": [
+                        "abide by"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "fanatic"
+                    "options": [
+                        "fanatic"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "current"
+                    "options": [
+                        "current"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "make time"
+                    "options": [
+                        "make time"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "modest"
+                    "options": [
+                        "modest"
+                    ]
                 }
             ]
         },

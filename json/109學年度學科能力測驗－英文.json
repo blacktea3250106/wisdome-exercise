@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\109學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "flaw"
+                    "options": [
+                        "flaw"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "exhibit"
+                    "options": [
+                        "exhibit"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "chubby"
+                    "options": [
+                        "chubby"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "attractiveness"
+                    "options": [
+                        "attractiveness"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "fade"
+                    "options": [
+                        "fade"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "rare"
+                    "options": [
+                        "rare"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "range"
+                    "options": [
+                        "range"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "transfer"
+                    "options": [
+                        "transfer"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "natural"
+                    "options": [
+                        "natural"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "presence"
+                    "options": [
+                        "presence"
+                    ]
                 }
             ]
         },

@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\111學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -227,52 +227,72 @@
                 {
                     "id": 21,
                     "text": "",
-                    "options": "possible"
+                    "options": [
+                        "possible"
+                    ]
                 },
                 {
                     "id": 22,
                     "text": "",
-                    "options": "sensation"
+                    "options": [
+                        "sensation"
+                    ]
                 },
                 {
                     "id": 23,
                     "text": "",
-                    "options": "risky"
+                    "options": [
+                        "risky"
+                    ]
                 },
                 {
                     "id": 24,
                     "text": "",
-                    "options": "cost"
+                    "options": [
+                        "cost"
+                    ]
                 },
                 {
                     "id": 25,
                     "text": "",
-                    "options": "witnessed"
+                    "options": [
+                        "witnessed"
+                    ]
                 },
                 {
                     "id": 26,
                     "text": "",
-                    "options": "professional"
+                    "options": [
+                        "professional"
+                    ]
                 },
                 {
                     "id": 27,
                     "text": "",
-                    "options": "called for"
+                    "options": [
+                        "called for"
+                    ]
                 },
                 {
                     "id": 28,
                     "text": "",
-                    "options": "tried out"
+                    "options": [
+                        "tried out"
+                    ]
                 },
                 {
                     "id": 29,
                     "text": "",
-                    "options": "necessity"
+                    "options": [
+                        "necessity"
+                    ]
                 },
                 {
                     "id": 30,
                     "text": "",
-                    "options": "career"
+                    "options": [
+                        "career"
+                    ]
                 }
             ]
         },
@@ -283,22 +303,30 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors."
+                    "options": [
+                        "Some people also visit the cemetery to clean up the family graves and pray for their ancestors."
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "Such festive activities are usually held in parks, temples, and other public places around Japan."
+                    "options": [
+                        "Such festive activities are usually held in parks, temples, and other public places around Japan."
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "Obon concludes with another bonfire, okuribi, lighting up the sky to see the ancestors’ spirits off."
+                    "options": [
+                        "Obon concludes with another bonfire, okuribi, lighting up the sky to see the ancestors’ spirits off."
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "Originating from the Chinese Ghost Festival, this annual event has evolved into a time of family reunion."
+                    "options": [
+                        "Originating from the Chinese Ghost Festival, this annual event has evolved into a time of family reunion."
+                    ]
                 }
             ]
         },

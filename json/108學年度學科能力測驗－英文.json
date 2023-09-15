@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\108學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "little"
+                    "options": [
+                        "little"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "purchases"
+                    "options": [
+                        "purchases"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "trusted"
+                    "options": [
+                        "trusted"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "requests"
+                    "options": [
+                        "requests"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "insisted"
+                    "options": [
+                        "insisted"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "ready"
+                    "options": [
+                        "ready"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "ruined"
+                    "options": [
+                        "ruined"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "privilege"
+                    "options": [
+                        "privilege"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "revealed"
+                    "options": [
+                        "revealed"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "obvious"
+                    "options": [
+                        "obvious"
+                    ]
                 }
             ]
         },

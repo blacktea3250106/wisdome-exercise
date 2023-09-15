@@ -1,6 +1,6 @@
 {
     "source": "D:\\wisdome-exercise\\pdf\\105學年度學科能力測驗－英文.pdf",
-    "date": "2023-09-14",
+    "date": "2023-09-15",
     "passages": [
         {
             "id": 0,
@@ -333,52 +333,72 @@
                 {
                     "id": 31,
                     "text": "",
-                    "options": "deserted"
+                    "options": [
+                        "deserted"
+                    ]
                 },
                 {
                     "id": 32,
                     "text": "",
-                    "options": "interference"
+                    "options": [
+                        "interference"
+                    ]
                 },
                 {
                     "id": 33,
                     "text": "",
-                    "options": "vision"
+                    "options": [
+                        "vision"
+                    ]
                 },
                 {
                     "id": 34,
                     "text": "",
-                    "options": "crazy"
+                    "options": [
+                        "crazy"
+                    ]
                 },
                 {
                     "id": 35,
                     "text": "",
-                    "options": "creation"
+                    "options": [
+                        "creation"
+                    ]
                 },
                 {
                     "id": 36,
                     "text": "",
-                    "options": "encouraged"
+                    "options": [
+                        "encouraged"
+                    ]
                 },
                 {
                     "id": 37,
                     "text": "",
-                    "options": "ignored"
+                    "options": [
+                        "ignored"
+                    ]
                 },
                 {
                     "id": 38,
                     "text": "",
-                    "options": "survived"
+                    "options": [
+                        "survived"
+                    ]
                 },
                 {
                     "id": 39,
                     "text": "",
-                    "options": "dry"
+                    "options": [
+                        "dry"
+                    ]
                 },
                 {
                     "id": 40,
                     "text": "",
-                    "options": "true"
+                    "options": [
+                        "true"
+                    ]
                 }
             ]
         },
